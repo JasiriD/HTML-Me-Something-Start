@@ -1,1 +1,49 @@
 /* Write your CSS here! */
+
+figcaption {
+    font-size: 100%;
+    color: white;
+}
+
+p{
+    font-size: 150%;
+    background-color: black;
+    color: white;
+    margin-left: 41px;
+}
+
+html {
+    background-color: rgb(40 40 40);
+    color: white;
+}
+
+h2 {
+    text-shadow: 2px 2px gray;
+    margin-left: 20px;
+    font-size: 300%;
+}
+
+.question{
+    font-size: 500%;
+}
+
+#slightlylargertext{
+    font-size: 175%;
+}
+
+body{
+    margin-left: 8px;
+    display: block;
+}
+
+#mainHeading{
+    text-shadow: 30px 0px blue;
+    font-family: 'Copperplate', Times, serif;
+    font-size: 500%;
+    color: red;
+}
+
+.funParagraph{
+    text-shadow: 10px 0px red;
+    color: green;
+}
